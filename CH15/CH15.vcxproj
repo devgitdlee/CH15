@@ -139,6 +139,27 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="15-1-연습문제1.c" />
+    <ClCompile Include="15-1-연습문제2.c" />
+    <ClCompile Include="15-1-연습문제4.c" />
+    <ClCompile Include="15-1-연습문제5.c" />
+    <ClCompile Include="15-1.c" />
+    <ClCompile Include="15-2-연습문제1.c" />
+    <ClCompile Include="15-2-연습문제2.c" />
+    <ClCompile Include="15-2-연습문제3.c" />
+    <ClCompile Include="15-2-연습문제4.c" />
+    <ClCompile Include="15-2-연습문제5.c" />
+    <ClCompile Include="15-2.c" />
+    <ClCompile Include="15-3.c" />
+    <ClCompile Include="15-4.c" />
+    <ClCompile Include="15-5.c" />
+    <ClCompile Include="15-6.c" />
+    <ClCompile Include="15-7.c" />
+    <ClCompile Include="15-8.c" />
+    <ClCompile Include="15-9.c" />
+    <ClCompile Include="15-도전1.c" />
+    <ClCompile Include="15-도전2.c" />
+    <ClCompile Include="15-도전3.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
